@@ -1,0 +1,6 @@
+"firstname"	"lastname"	"balance"	"age"
+"Jim"	"Carry"	"27,000"	"33"
+"John"	"Bellows"	"33,000"	"42"
+"Paul"	"McCartney"	"12"	"77"
+"John"	"Doe"	"78,000"	"22"
+"Homer"	"Simpson"	"17,000"	"33"

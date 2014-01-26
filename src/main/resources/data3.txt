@@ -1,0 +1,5 @@
+"lastname"#"firstname"#"age"#"balance"
+"Small"#"Je#ff"#"29"#"30,000"
+"Little"#"Tony"#"31"#"29000"
+"Flintstone"#"Fred"#"27"#"10"
+"McGuire"#"Jerry"#"37"#"27"
